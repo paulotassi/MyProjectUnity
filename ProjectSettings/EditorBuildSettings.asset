@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/211Lab_01.unity
     guid: f6438c27cb4ee96479e3801819dbee27
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lights.unity
     guid: fcda00828fb6d6542b98c628789d76a6
+  - enabled: 1
+    path: Assets/Scenes/GDD200Assignment3.unity
+    guid: 806a6934d3f2c7848a5edd0a6322b22a
   m_configObjects: {}
